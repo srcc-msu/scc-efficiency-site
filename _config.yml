@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Рабочая группа по обеспечению качества работы СКЦ
+title: Рабочая группа по анализу и обеспечению качества работы СКЦ
 #email: super-no-shit-please@parallel.ru
 #description: >- # this means to ignore newlines until "baseurl:"
-#  Рабочая группа по обеспечению качества работы СКЦ. Членство
+#  Рабочая группа по анализу и обеспечению качества работы СКЦ. Членство
 #  в группе бесплатное, на добровольных началах.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://scc-efficiency.parallel.ru" # the base hostname & protocol for your site, e.g. http://example.com
